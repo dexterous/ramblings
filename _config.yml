@@ -1,3 +1,4 @@
 name: Could we be looking at it all wrong?
 markdown: redcarpet
 pygments: true
+permalink: /:year/:month/:title.html
