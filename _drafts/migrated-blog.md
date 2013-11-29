@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apologies for the spam (aka I migrated my blog to GitHub Pages)
+
 ---
 
 I finally decided to move my blog over to [GitHub Pages](http://pages.github.com) for a number of reasons; the most
