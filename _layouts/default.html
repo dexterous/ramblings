@@ -12,13 +12,15 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+        <script src="http://cdn.lanyrd.net/badges/person-v1.min.js"></script>
+
     </head>
     <body>
 
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
+            <div id="lanyrd-target-topbar"></div>
           </div>
 
           {{ content }}
@@ -28,12 +30,17 @@
               <p>
                 Code<br />
                 Twitter<br />
+                Lanyrd
               </p>
             </div>
             <div class="contact">
               <p>
                 <a href="https://github.com/dexterous">github.com/dexterous</a><br />
-                <a href="https://twitter.com/dexterous">twitter.com/dexterous</a>
+                <a href="https://twitter.com/dexterous">twitter.com/dexterous</a><br />
+                <a href="http://lanyrd.com/profile/dexterous"
+                   class="lanyrd-topbar lanyrd-theme-snow lanyrd-type-all"
+                   rel="me">lanyrd.com/dexterous</a>
+                <!-- lanyrd-type-* : tracking, attending, speaking, involved, all -->
               </p>
             </div>
           </div>
