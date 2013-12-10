@@ -6,7 +6,7 @@ I grew tired of Blogger's cumbersome UI and excessive styling & widgetery. Now, 
 License
 ===
 
-The following directories and their contents are Copyright Tom Preston-Werner. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Saager Mhatre. You may not reuse anything therein without my permission:
 
 * _posts/
 * _drafts/
