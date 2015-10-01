@@ -1,4 +1,6 @@
-name: Saager Mhatre
+name: Ramblings of a wanderer
+author:
+  name: Saager Mhatre
 markdown: redcarpet
 pygments: true
 gems:
