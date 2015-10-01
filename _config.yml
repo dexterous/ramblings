@@ -1,3 +1,5 @@
 name: Saager Mhatre
 markdown: redcarpet
 pygments: true
+gems:
+  - jekyll-feed
