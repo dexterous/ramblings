@@ -6,10 +6,13 @@ I grew tired of Blogger's cumbersome UI and excessive styling & widgetery. Now, 
 License
 ===
 
-The following directories and their contents are Copyright Saager Mhatre. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Saager Mhatre.
 
-* _posts/
-* _drafts/
+* [_posts/](/_posts/)
+* [_drafts/](/_drafts/)
+
+You may not reuse anything therein without my permission:
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
+
 _License text borrowed from https://github.com/mojombo/mojombo.github.io/blob/master/README.textile_
