@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/dexterous/ramblings/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/dexterous/ramblings/actions/workflows/pages/pages-build-deployment)
+
 Just another [Jekyll](http://jekyllrb.com) Blog
 ===
 
