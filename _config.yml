@@ -3,5 +3,6 @@ author:
   name: Saager Mhatre
 markdown: redcarpet
 pygments: true
+show_drafts: true
 gems:
   - jekyll-feed
